@@ -1,0 +1,23 @@
+_repo: Tacoma-Electric-City-of-the-Pacific-Coast-1904_64395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pratt, Louis W.
+    gutenberg_agent_id: '52884'
+    url: http://www.gutenberg.org/2009/agents/52884
+description: ''
+gutenberg_issued: '2021-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64395'
+  lccn: tmp92007351
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Tacoma (Wash.) -- Description and travel'
+- GITenberg
+title: 'Tacoma: Electric City of the Pacific Coast, 1904'
+url: http://www.gutenberg.org/ebooks/64395
